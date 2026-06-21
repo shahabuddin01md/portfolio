@@ -27,3 +27,4 @@ This is a personal portfolio website built with **React.js and type script**. It
  
 # npm run dev
 # portfolio-
+# portfolio
